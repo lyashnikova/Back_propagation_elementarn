@@ -1,1 +1,1 @@
-# Back_propagation_elementarn
+Метод обратного распространения ошибки# Back_propagation_elementarn
